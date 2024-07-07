@@ -19,10 +19,10 @@ Building on top of the pre-existing work, we trained both Random Forest and Neur
 | Random Forest  | 0.983     | 0.983   | 0.983    | 0.983    |
 | Neural Network | 0.956     | 0.957   | 0.957    | 0.957    |
 
-The trained Neural Network model (`model.pth`) is included in this repository. Due to its large size, the trained Random Forest model (`random_forest_model.pkl`) is not included.
+The trained Random Forest model (`random_forest_model.pkl`) and Neural Network model (`model.pth`) are included in this repository. 
 
 ## References
 
-- Kang Leng Chiew, et al. ["A new hybrid ensemble feature selection framework for machine learning-based phishing detection system."] (https://doi.org/10.1016/j.ins.2019.01.064)
+- Kang Leng Chiew, et al. ["A new hybrid ensemble feature selection framework for machine learning-based phishing detection system."](https://doi.org/10.1016/j.ins.2019.01.064)
 - [GitHub Repository for Scripts and Models](https://github.com/periscopegithub/Suspicious-URL-Detector.git)
 
