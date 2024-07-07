@@ -24,5 +24,5 @@ The trained Random Forest model (`random_forest_model.pkl`) and Neural Network m
 ## References
 
 - Kang Leng Chiew, et al. ["A new hybrid ensemble feature selection framework for machine learning-based phishing detection system."](https://doi.org/10.1016/j.ins.2019.01.064)
-- [GitHub Repository for Scripts and Models](https://github.com/periscopegithub/Suspicious-URL-Detector.git)
+- Previous work by MOHAMAD FADIL on [Kaggle](https://www.kaggle.com/code/fadilparves/pishing-detection-using-machine-learning)
 
